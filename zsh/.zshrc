@@ -99,4 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 export PATH=$PATH:/usr/local/go/bin
+xinput set-prop "ELAN0504:01 04F3:3091 Touchpad" "libinput Tapping Enabled" 1
